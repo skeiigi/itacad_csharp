@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4dacd820bfd34706806ccc68d0f77667" Name="Diagram1">
+        <EntityTypeShape EntityType="ITAcademy1Model.Cleaning_Schedule" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Guest_Services" Width="1.5" PointX="8.25" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Guests" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Integrations" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Payments" Width="1.5" PointX="8.25" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Reservations" Width="1.5" PointX="6" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Roles" Width="1.5" PointX="1.5" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Room_Access" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Rooms" Width="1.5" PointX="0.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Services" Width="1.5" PointX="6" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Statistics_hotel" Width="1.5" PointX="2.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.sysdiagrams" Width="1.5" PointX="4.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITAcademy1Model.Users" Width="1.5" PointX="0.75" PointY="9.25" IsExpanded="true" />
+        <AssociationConnector Association="ITAcademy1Model.FK_Cleaning_Schedule_Rooms" ManuallyRouted="false" />
+        <AssociationConnector Association="ITAcademy1Model.FK_Cleaning_Schedule_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ITAcademy1Model.FK_Guest_Services_Reservations" ManuallyRouted="false" />
+        <AssociationConnector Association="ITAcademy1Model.FK_Guest_Services_Services1" ManuallyRouted="false" />
+        <AssociationConnector Association="ITAcademy1Model.FK_Reservations_Guests" ManuallyRouted="false" />
+        <AssociationConnector Association="ITAcademy1Model.FK_Room_Access_Guests" ManuallyRouted="false" />
+        <AssociationConnector Association="ITAcademy1Model.FK_Payments_Reservations" ManuallyRouted="false" />
+        <AssociationConnector Association="ITAcademy1Model.FK_Reservations_Rooms2" ManuallyRouted="false" />
+        <AssociationConnector Association="ITAcademy1Model.FK_Users_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="ITAcademy1Model.FK_Room_Access_Rooms" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

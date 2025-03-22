@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester4\\ITAcademy\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78FA7EEB-73E6-4DBA-9E65-9CA304836C23}|WpfApp1\\WpfApp1.csproj|d:\\semester4\\itacademy\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FA7EEB-73E6-4DBA-9E65-9CA304836C23}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FA7EEB-73E6-4DBA-9E65-9CA304836C23}|WpfApp1\\WpfApp1.csproj|D:\\semester4\\ITAcademy\\WpfApp1\\wpfapp1\\windowhoteladmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FA7EEB-73E6-4DBA-9E65-9CA304836C23}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\windowhoteladmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FA7EEB-73E6-4DBA-9E65-9CA304836C23}|WpfApp1\\WpfApp1.csproj|D:\\semester4\\ITAcademy\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78FA7EEB-73E6-4DBA-9E65-9CA304836C23}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FA7EEB-73E6-4DBA-9E65-9CA304836C23}|WpfApp1\\WpfApp1.csproj|D:\\semester4\\ITAcademy\\WpfApp1\\wpfapp1\\windowhoteladmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78FA7EEB-73E6-4DBA-9E65-9CA304836C23}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\windowhoteladmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FA7EEB-73E6-4DBA-9E65-9CA304836C23}|WpfApp1\\WpfApp1.csproj|D:\\semester4\\ITAcademy\\WpfApp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78FA7EEB-73E6-4DBA-9E65-9CA304836C23}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 314,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\semester4\\ITAcademy\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\semester4\\ITAcademy\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAswIcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:48:55.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\semester4\\ITAcademy\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\semester4\\ITAcademy\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-22T09:48:52.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowHotelAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\semester4\\ITAcademy\\WpfApp1\\WpfApp1\\WindowHotelAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\WindowHotelAdmin.xaml.cs",
+              "ToolTip": "D:\\semester4\\ITAcademy\\WpfApp1\\WpfApp1\\WindowHotelAdmin.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\WindowHotelAdmin.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAIAwwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:26:04.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowHotelAdmin.xaml",
+              "DocumentMoniker": "D:\\semester4\\ITAcademy\\WpfApp1\\WpfApp1\\WindowHotelAdmin.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\WindowHotelAdmin.xaml",
+              "ToolTip": "D:\\semester4\\ITAcademy\\WpfApp1\\WpfApp1\\WindowHotelAdmin.xaml",
+              "RelativeToolTip": "WpfApp1\\WindowHotelAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T09:57:50.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\semester4\\ITAcademy\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "D:\\semester4\\ITAcademy\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T12:14:26.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
